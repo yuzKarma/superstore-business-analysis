@@ -99,7 +99,7 @@ Three analytical datasets were developed:
 
 3. Revenue contracted sharply in 2015, with Office Supplies and Technology experiencing the largest declines. Performance rebounded strongly across all categories in 2016, with both categories returning to positive year-over-year growth.
 
-
+![Image](RevenueTrend.png)
 
 4. Technology remained the primary growth engine and generated the highest total revenue among all categories in 2017, yet it also experienced decelerated year-over-year growth compared to its strong 2016 rebound.
 
@@ -107,13 +107,21 @@ Three analytical datasets were developed:
 
 4. Furniture contributes approximately 32% of total revenue but only 6% of total profit, indicating substantially lower profitability than other categories.
 
+![Image](RevenueandprofitsharebyCategory.png)
+
 6. Most products are profitable, but 216 products (11.92% of all products) are classified as loss-making. These products exhibit the highest average discount levels (29.6%), suggesting discounting may contribute to margin erosion.
 
+![Image](Lossproductanddiscount.png)
+s
 ### Customer Analysis
 
 6. Customer segmentation analysis shows that approximately 74% of customers belong to the Regular segment, while VIP customers represent a small portion of the customer base but contribute the highest spending and profit margins.
 
+![Image](customerSegmentationandloyalty.png)
+
 7. Customer profitability varies significantly across the customer base. Tamara Chand generated approximately $8.9K profit while also ranking among the highest-revenue customers, making her one of the most valuable customers.
+
+![Image](RevenuevsProfit.png)
 
 8. In contrast, Cindy Stewart generated approximately $5K revenue but produced the largest customer loss. Sean Miller generated the highest customer revenue (~$25K) yet remained unprofitable, demonstrating that high revenue does not necessarily translate into profitability.
 
@@ -124,6 +132,8 @@ Three analytical datasets were developed:
 ### Geographic Analysis
 
 10. Despite being one of the largest markets by revenue, customer base, and order volume, Texas operates at a loss, suggesting that high sales activity is not translating into profitability.
+
+![Image](TexasRevenueandprofit.png)
 
 ---
 
